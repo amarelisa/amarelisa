@@ -16,4 +16,4 @@ Gostaria de pedir que vocês, por favor, não reparem na bagunça, pois estou ap
 
 📫 Contato:
 
-[<img alt="LindkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maria-elisa-rocha-couto-gomes-052894174/) [<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:elisarcouto@gmail.com) [<img alt = "Lattes" src="https://img.shields.io/badge/-Lattes-orange?style=for-the-badge&logo=GitBook&logoColor=white"/>](http://lattes.cnpq.br/5937890422104239)
+[<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:elisarcouto@gmail.com) [<img alt="LindkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maria-elisa-rocha-couto-gomes-052894174/) [<img alt = "Lattes" src="https://img.shields.io/badge/-Lattes-orange?style=for-the-badge&logo=GitBook&logoColor=white"/>](http://lattes.cnpq.br/5937890422104239)
