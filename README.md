@@ -1,3 +1,4 @@
+<img src="header.svg" width="800" height="400">
 
 ### Ei, gente! :yellow_heart: Tudo bem?
 
