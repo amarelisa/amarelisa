@@ -1,16 +1,17 @@
-### Hi there 👋
+### Ei, gente! :yellow_heart: Tudo bem?
 
-<!--
-**amarelisa/amarelisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Elisa, mas vocês podem me chamar de Maria, Elisa ou Amarelisa! 
 
-Here are some ideas to get you started:
+Sou Cientista Social formada pela Universidade Federal de Minas Gerais (UFMG) em 2019, onde atualmente curso o mestrado em Sociologia (PPGS/UFMG), desenvolvendo pesquisa sobre desigualdades de gênero na divisão dos afazeres domésticos e de cuidado não remunerados. Também me interesso por temas relacionados às políticas públicas e à teoria social. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Depois de alguns anos trabalhando com o SPSS e o STATA, estou quase realizando o sonho de migrar para um _software_ livre onde possa fazer minhas análises estatísticas utilizando dados públicos, coletados pelo IBGE. 
+
+Por aqui, vocês poderão acompanhar esta jornada e torcer por mim 😅!
+
+Gostaria de pedir que vocês, por favor, não reparem na bagunça, pois estou apenas começando a aprender :hatching_chick:!
+
+✨ Quaisquer dicas são muito bem-vindas!
+
+🏡 Obrigada pela visita! 
+
+📫 elisarcouto@gmail.com
