@@ -3,9 +3,9 @@
 
 Meu nome é Maria Elisa, mas vocês podem me chamar de Maria, Elisa ou Amarelisa! 
 
-Sou Cientista Social formada pela Universidade Federal de Minas Gerais (UFMG) em 2019, onde atualmente curso o mestrado em Sociologia (PPGS/UFMG), desenvolvendo pesquisa sobre desigualdades de gênero na divisão dos afazeres domésticos e de cuidado não remunerados. Também me interesso por temas relacionados às políticas públicas e à teoria social. 
+Sou Cientista Social e Mestra em Sociologia formada pela Universidade Federal de Minas Gerais (UFMG), onde atualmente curso o doutorado em Ciência Política, desenvolvendo pesquisas sobre políticas públicas e prisões. 
 
-Depois de alguns anos trabalhando com o SPSS e o STATA, estou quase realizando o sonho de migrar para um _software_ livre onde possa fazer minhas análises estatísticas utilizando dados públicos, coletados pelo IBGE. 
+Depois de alguns anos trabalhando com o SPSS e o STATA, estou quase realizando o sonho de migrar para um _software_ livre onde possa fazer minhas análises estatísticas utilizando dados públicos, coletados pelo IBGE e outras instituições. 
 
 Por aqui, vocês poderão acompanhar esta jornada e torcer por mim 😅!
 
